@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["playing : mc.nexpixel.net","playing:mc.nexpixel.net"];
 
 
 let currentIndex = 0;
